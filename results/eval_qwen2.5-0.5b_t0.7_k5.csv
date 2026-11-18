@@ -1,0 +1,1406 @@
+﻿id,category,question,answer,retrieved_sources,used_fallback,seconds,expected_answer,verdict,notes
+1,requirements,What are the graduation requirements for the Computer Science major?,"The Computer Science major requires students to complete a total of 8 credits, which can be divided into 6 courses. First, students must complete one programming course, which is either CS 101: Introduction to Programming, CS 103: Programming for Data Science and Visualization, or CS 104: Introduction to Computer Science. Next, they must take one 100-level or 200-level CS course. Students can choose one of these courses, and they may also take a computer science course (MATH 202 - Discrete Math) as part of a team. The student must also complete 4 credits of computer science-related courses, with a minimum of 4 credits from the foundational courses listed in the context. For example, they can select either CS 201 – Data Structures & Algorithms or CS 215: Algorithms and Data Structures. To formally declare a minor in Computer Science, students must complete at least one Computer Science course (MATH 202 - Discrete Math is also counted) and pass a final exam. Students will gain employment in Vietnam as software engineers, in the U.S. as AI engineers, and in other countries as data engineers, business analysts, product owners, product development managers, and many other roles.",CS_MajorHandbook.pdf p.7 (0.6716); CS_MajorHandbook.pdf p.4 (0.6457); CS_MajorHandbook.pdf p.5 (0.6439); CS_MajorHandbook.pdf p.7 (0.6394); CS_MajorHandbook.pdf p.8 (0.6291),False,33.9,,,
+2,requirements,How many credits are the compulsory courses in the CS major?,"To determine the number of compulsory courses in the CS major, I'll analyze the given context and extract relevant information:
+
+1. The context states that the major is declared and requires completing at least 6 compulsory courses.
+2. The context breaks down the compulsory courses into three categories: E1-Arts and Humanities, E2-Social Sciences, and STEM.
+3. It mentions that up to 2 courses (8 credits) can be counted toward the major, but specific details are not provided.
+4. The context provides a list of the compulsory courses for each category, including those that have been counted toward the major.
+
+Given this information, we can infer that the number of compulsory courses in the CS major is at least 6, as specified by the context and the information provided. Since it doesn't specify a maximum, the most accurate answer based on the given information is that the number of compulsory courses is 6.
+
+Therefore, the compulsory courses in the CS major are 6 credits.",CS_MajorHandbook.pdf p.7 (0.6863); CS_MajorHandbook.pdf p.7 (0.6628); CS_MajorHandbook.pdf p.7 (0.6494); CS_MajorHandbook.pdf p.11 (0.6464); CS_MajorHandbook.pdf p.13 (0.6331),False,17.4,,,
+3,requirements,What is the Capstone requirement?,"The Capstone requirement for CS 401/402 is to enroll in a Capstone project, which is an elective course that requires a minimum major GPA of 3.5 and approval of a successful application. This course provides students with an opportunity to apply theoretical knowledge and research skills to a practical problem, which is often a bridge between coursework and real-world applications.",CS_MajorHandbook.pdf p.9 (0.668); CS_MajorHandbook.pdf p.8 (0.6223); CS_MajorHandbook.pdf p.2 (0.5477); CS_MajorHandbook.pdf p.2 (0.5444); CS_MajorHandbook.pdf p.6 (0.5414),False,9.0,,,
+4,requirements,How many advanced courses must a CS student take?,"To formally declare a minor in Computer Science, a student must complete at least one Computer Science course. For example, they would need to take either CS 201 (Data Structures & Algorithms) or CS 203 (Computer Organization).",CS_MajorHandbook.pdf p.7 (0.6699); CS_MajorHandbook.pdf p.7 (0.6526); CS_MajorHandbook.pdf p.13 (0.6505); CS_MajorHandbook.pdf p.11 (0.6492); CS_MajorHandbook.pdf p.7 (0.6478),False,9.5,,,
+5,courses,"Is CS 201 Data Structures & Algorithms a compulsory course, and how many credits is it?","No, CS 201: Data Structures & Algorithms is not a compulsory course. It counts as one course from the 100-level or 200-level CS course, but it is not mandatory for major declaration.",CS_MajorHandbook.pdf p.7 (0.6766); CS_MajorHandbook.pdf p.7 (0.6584); CS_MajorHandbook.pdf p.14 (0.6534); CS_MajorHandbook.pdf p.7 (0.6516); CS_MajorHandbook.pdf p.16 (0.6502),False,9.1,,,
+6,courses,Which math course is required for the CS major?,"To formally declare Computer Science as their major, the student must complete at least two Computer Science courses, including MATH 202 - Discrete Math, and two other courses such as CS 101, CS 103, or CS 104.",CS_MajorHandbook.pdf p.7 (0.6681); CS_MajorHandbook.pdf p.7 (0.6371); CS_MajorHandbook.pdf p.13 (0.6318); CS_MajorHandbook.pdf p.14 (0.6235); CS_MajorHandbook.pdf p.11 (0.6154),False,9.3,,,
+7,courses,What is CS 203 about?,"CS 203 is Computer Organization, a course introduced to students in the major programming languages course. It aims to provide students with a theoretical foundation in computing systems and their design and implementation.",CS_MajorHandbook.pdf p.16 (0.5776); CS_MajorHandbook.pdf p.14 (0.5742); CS_MajorHandbook.pdf p.14 (0.5737); CS_MajorHandbook.pdf p.9 (0.5736); CS_MajorHandbook.pdf p.16 (0.5723),False,8.7,,,
+8,courses,List the compulsory courses of the CS major.,"To formally declare Computer Science as their major, the student must complete at least one Computer Science course (MATH 202 - Discrete Math is also counted). The major requires students to take a total of six courses: • One programming course (4 credits) which is either CS 101: Introduction to Programming or CS 103: Programming for Data Science and Visualization or CS 104: Introduction to Computer Science. • One 100-level or 200-level CS course (4 credits). • CS 201 – Data Structures & Algorithms (4 credits). • One intermediate course (4 credits). • One 200-level or 300-level CS course (4 credits). • One advanced course (4 credits). To formally declare a minor in Computer Science, the student must complete at least one Computer Science course (MATH 202 - Discrete Math is also counted). The minor requires students to take a total of six courses: • One programming course (4 credits) which is either CS 101: Introduction to Programming or CS 103: Programming for Data Science and Visualization or CS 104: Introduction to Computer Science • One 100-level or 200-level CS course (4 credits) • CS 201 – Data Structures & Algorithms (4 credits) • One intermediate course (4 credits) • One 200-level or 300-level CS course (4 credits) • One advanced course (4 credits).",CS_MajorHandbook.pdf p.13 (0.6934); CS_MajorHandbook.pdf p.7 (0.6873); CS_MajorHandbook.pdf p.11 (0.6845); CS_MajorHandbook.pdf p.7 (0.6639); CS_MajorHandbook.pdf p.7 (0.6616),False,21.0,,,
+9,outcomes,What are the learning outcomes of the CS program?,"The CS program aims to provide students with the fundamental knowledge and skills in Computer Science and relevant disciplines. It emphasizes active and collaborative learning through instructor-led and student-led discussion, in-class activities, and applied learning. The learning outcomes include demonstrating an understanding of fundamental computer science concepts, explaining emerging computer science disciplines, developing real-world applications, and applying design and systems thinking processes. These outcomes are mapped to the FUV Graduate Attributes and are derived from the core course content and curriculum framework.",CS_MajorHandbook.pdf p.12 (0.6359); CS_MajorHandbook.pdf p.11 (0.6356); CS_MajorHandbook.pdf p.5 (0.626); CS_MajorHandbook.pdf p.12 (0.622); CS_MajorHandbook.pdf p.4 (0.621),False,13.6,,,
+10,outcomes,What skills will a CS graduate have after finishing the program?,"After completing the Computer Science (CS) major at Fulbright, graduates will have the following skills:
+
+1. Ability to analyze and solve complex problems using systems thinking processes.
+2. Demonstrate creative, collaborative, and entrepreneurial thinking and practice.
+3. Develop real-world applications (e.g., software systems and frameworks, mobile apps, data pipelines, etc.) by using knowledge of computer science and other disciplines.
+4. Apply design and systems thinking processes to analyze and solve real-world problems.
+5. Explain emerging aspects of the computer science discipline (e.g., artificial intelligence, machine learning, data science, business analytics, digital media, etc.).
+6. Develop real-world applications (e.g., software systems and frameworks, mobile apps, data pipelines, etc.) by using knowledge of computer science and other disciplines.
+7. Learn about the underlying mathematical ideas that are critical for computation.
+8. Understand the role of users in the design of systems and applications.
+9. Gain experience in collecting and analyzing data using modern technologies.
+10. Begin to develop an understanding for the role of users in the design of systems and applications.",CS_MajorHandbook.pdf p.5 (0.6358); CS_MajorHandbook.pdf p.8 (0.6284); CS_MajorHandbook.pdf p.5 (0.6258); CS_MajorHandbook.pdf p.4 (0.6099); CS_MajorHandbook.pdf p.4 (0.6053),False,15.6,,,
+11,policy,What is the minimum GPA required to graduate?,"The minimum major GPA required to graduate is 3.5. This is specified in the ""Founda'onal Courses"" section of the CS_MajorHandbook.pdf, which includes Sample Foundational Courses: Introduction to Programming, Data Structures & Algorithms, Computer Organization, Discrete Mathematics, and Algorithms & Theory of Computing.",CS_MajorHandbook.pdf p.8 (0.5737); CS_MajorHandbook.pdf p.9 (0.5601); CS_MajorHandbook.pdf p.7 (0.5566); CS_MajorHandbook.pdf p.7 (0.5469); CS_MajorHandbook.pdf p.5 (0.5451),False,9.3,,,
+12,policy,Can I double major with Computer Science?,"Yes, you can double major with Computer Science. To formally declare Computer Science as your major, you must complete at least two Computer Science courses (MATH 202 - Discrete Math is also counted). This requires taking a total of six courses: four programming courses, one 100-level or 200-level CS course, one intermediate course, and one advanced course. To declare a minor in Computer Science, you must complete one Computer Science course (MATH 202 - Discrete Math is also counted) and one 200-level or 300-level CS course.",CS_MajorHandbook.pdf p.7 (0.5964); CS_MajorHandbook.pdf p.4 (0.5925); CS_MajorHandbook.pdf p.13 (0.5895); CS_MajorHandbook.pdf p.4 (0.5855); CS_MajorHandbook.pdf p.7 (0.5679),False,10.5,,,
+13,policy,What is the policy on course prerequisites?,"The course prerequisites are listed in the second page of the CS_MajorHandbook.pdf document, which states: ""The course Introduction to Computer Science aims at teaching students the basics of computer science, programming, and data science, along with potential career paths in the field of computing. Computer science is the study of how computers work and how to use them for diﬀerent purposes. Programming is the skill of writing instructions for computers to follow. The students will be able to create their own programs that can perform various tasks, understand how computers solve problems, and apply their knowledge and skills to any ﬁeld that involves computing.""",CS_MajorHandbook.pdf p.8 (0.5685); CS_MajorHandbook.pdf p.13 (0.5642); CS_MajorHandbook.pdf p.14 (0.5633); CS_MajorHandbook.pdf p.14 (0.5578); CS_MajorHandbook.pdf p.16 (0.5561),False,14.0,,,
+14,policy,How many credits can a student take per semester?,"A student can take up to 8 credits per semester, which includes 4 credits of mandatory courses (MATH 202, CS 101, CS 201, CS 203) and 4 credits of elective courses (e.g., CS 302, CS 304, CS 305). Each elective course can be taken as many times as the student desires, up to a maximum of 8 credits per semester.",CS_MajorHandbook.pdf p.7 (0.5812); CS_MajorHandbook.pdf p.7 (0.5779); CS_MajorHandbook.pdf p.2 (0.5719); CS_MajorHandbook.pdf p.7 (0.5718); CS_MajorHandbook.pdf p.16 (0.5715),False,10.0,,,
+15,out_of_scope,Who is the president of the United States?,"The president of the United States is Joe Biden. He served as the 46th President of the United States from January 20, 2021, to January 20, 2023.",CS_MajorHandbook.pdf p.6 (0.4854); CS_MajorHandbook.pdf p.16 (0.4784); CS_MajorHandbook.pdf p.6 (0.472); CS_MajorHandbook.pdf p.11 (0.4695); CS_MajorHandbook.pdf p.15 (0.4682),False,7.9,,,
+16,out_of_scope,What is on the cafeteria menu today?,"Today's cafeteria menu features a variety of dishes, including:
+
+- Grilled salmon with a choice of side dishes such as steamed broccoli, roasted Brussels sprouts, and onion rings
+- Quinoa and black bean salad with fresh tomatoes, cucumbers, and a choice of herbs
+- Pan-fried chicken with a side of quinoa and kale
+- Shrimp and vegetables salad with a choice of acai, green beans, and a side of spinach
+- Egg roll with a choice of rice noodles, egg, and a side of pickled vegetables
+- Quiche with a choice of a slice of fresh fruit, a side of cream cheese, and a choice of nuts or fruit
+- Tacos with a choice of a variety of fillings such as grilled chicken, shrimp, or fish
+- Grilled chicken and vegetables with a side of rice and a choice of vegetables
+- Grilled shrimp with a choice of side dishes such as steamed broccoli, sautéed onions, and a side of rice
+- Prawn and vegetables salad with a choice of acai, green beans, and a side of spinach
+- Shrimp and vegetables salad with a choice of acai, green beans, and a side of spinach
+- Grilled chicken with a choice of side dishes such as roasted Brussels sprouts, a side of carrots, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, a side of sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as a slice of fresh fruit, a side of cream cheese, and a choice of side vegetables
+- Grilled chicken with a choice of side dishes such as steamed broccoli, sautéed onions, and a choice",CS_MajorHandbook.pdf p.16 (0.4775); CS_MajorHandbook.pdf p.16 (0.4771); CS_MajorHandbook.pdf p.16 (0.4764); CS_MajorHandbook.pdf p.18 (0.4747); CS_MajorHandbook.pdf p.3 (0.472),False,2128.8,,,

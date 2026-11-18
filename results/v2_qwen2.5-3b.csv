@@ -1,0 +1,20 @@
+id,category,question,answer,retrieved_sources,used_fallback,seconds,avg_score,model
+1,requirements,What are the graduation requirements for the Computer Science major?,"The graduation requirement for the B.S. Computer Science major is 56 credits as per Major Requirements outlined on page 7. This includes mandatory courses like CS 101, CS 201, CS 203, MATH 202, and three intermediate or four advanced courses (or combinations thereof).","7,5,7,7,8",False,176.2,0.6494,qwen2.5:3b
+2,requirements,How many credits are the compulsory courses in the CS major?,24,"7,7,7,13,11",False,46.9,0.6574,qwen2.5:3b
+3,requirements,What is the Capstone requirement?,The capstone requirement depends on whether students want to graduate with honors or without. Students can choose to do a capstone to graduate with honors or take two more intermediate or advanced courses to graduate without honors.,"9,8,12,6,6",False,52.2,0.5781,qwen2.5:3b
+4,requirements,How many advanced courses must a CS student take?,Four advanced courses.,"7,13,13,11,7",False,47.3,0.6578,qwen2.5:3b
+5,courses,"Is CS 201 Data Structures & Algorithms a compulsory course, and how many credits is it?",CS201 Data Structures & Algorithms is a required course with 4 credits.,"14,13,7,7,7",False,63.8,0.6746,qwen2.5:3b
+6,courses,Which math course is required for the CS major?,MATH 202,"7,7,13,7,13",False,39.4,0.6482,qwen2.5:3b
+7,courses,What is CS 203 about?,"CS203 introduces students to the abstract design and implementation of computer systems from digital levels in hardware up to the interface between hardware and software. It covers topics such as bits, arithmetic and logical operations on bits, logic gates based on transistors, memory implementation, finite state machines, and instruction cycles of CPUs.","14,15,18,14,16",False,80.2,0.5917,qwen2.5:3b
+8,courses,List the compulsory courses of the CS major.,"The compulsory courses for the Computer Science major include:
+- Introduction to Programming (CS101, CS103, or CS104)
+- Data Structures & Algorithms (CS201)
+- Intermediate course (one 100-level/200-level CS course and one 200-level/300-level CS course)","13,7,11,11,7",False,53.9,0.6862,qwen2.5:3b
+9,outcomes,What are the learning outcomes of the CS program?,"The Computer Science program aims to equip students with necessary skills and knowledge for employment in industry or graduate schools, instill a strong code of professional ethics, foster effective collaboration and communication, and cultivate innovators and thinkers. The specific PLOs are not detailed in this handbook excerpt.","11,5,12,4,4",False,63.8,0.6186,qwen2.5:3b
+10,outcomes,What skills will a CS graduate have after finishing the program?,"A CS graduate will have skills in fundamental computer science, emerging aspects like machine learning and data science, and be able to develop real-world applications using knowledge from both computer science and other disciplines.","5,5,11,11,8",False,69.2,0.6001,qwen2.5:3b
+11,policy,What is the minimum GPA required to graduate?,The handbook does not say.,"9,7,7,5,2",False,59.8,0.5498,qwen2.5:3b
+12,policy,Can I double major with Computer Science?,"Yes, students can declare a second major in addition to their current major.","7,4,4,7,13",False,46.3,0.5928,qwen2.5:3b
+13,policy,What is the policy on course prerequisites?,The handbook does not say specific policies on course prerequisites other than mentioning that some courses require others as prerequisites.,"14,7,16,13,8",False,60.3,0.5782,qwen2.5:3b
+14,policy,How many credits can a student take per semester?,The handbook does not say.,"7,7,7,7,11",False,63.9,0.5763,qwen2.5:3b
+15,out_of_scope,Who is the president of the United States?,The handbook does not say.,"6,15,1,16,3",True,2.1,0.4757,qwen2.5:3b
+16,out_of_scope,What is on the cafeteria menu today?,The handbook does not say.,"13,16,16,16,3",True,0.1,0.4761,qwen2.5:3b

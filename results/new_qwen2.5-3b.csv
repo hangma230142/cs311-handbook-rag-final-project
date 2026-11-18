@@ -1,0 +1,20 @@
+id,category,question,answer,retrieved_sources,used_fallback,seconds,avg_score,model
+1,requirements,What are the graduation requirements for the Computer Science major?,"The graduation requirement for the Computer Science major includes completing at least two computer science courses (MATH 202 - Discrete Math is also counted) to formally declare the major, as well as meeting minor requirements which require taking a total of six courses in Computer Science.","7,5,7,8,14",False,213.8,0.6373,qwen2.5:3b
+2,requirements,How many credits are the compulsory courses in the CS major?,56,"7,7,13,7,11",False,41.9,0.6557,qwen2.5:3b
+3,requirements,What is the Capstone requirement?,"Capstone I and Capstone II (8 credits). Alternatively, two additional intermediate or advanced courses can be taken for graduation.","9,8,12,6,7",False,29.2,0.5784,qwen2.5:3b
+4,requirements,How many advanced courses must a CS student take?,Four advanced courses.,"7,13,13,11,7",False,27.5,0.659,qwen2.5:3b
+5,courses,"Is CS 201 Data Structures & Algorithms a compulsory course, and how many credits is it?",CS201 Data Structures & Algorithms is not explicitly stated as a compulsory course. It has 4 credits.,"14,7,13,7,13",False,33.6,0.6753,qwen2.5:3b
+6,courses,Which math course is required for the CS major?,MATH 202: Discrete Math,"7,13,7,13,11",False,24.4,0.6427,qwen2.5:3b
+7,courses,What is CS 203 about?,"CS203 introduces students to the abstract design and implementation of computer systems from digital levels in hardware up to the interface between hardware and software. It covers topics such as bits, arithmetic and logical operations on bits, logic gates based on transistors, memory structures, finite state machines, and instruction cycles of CPUs.","14,15,18,14,16",False,42.4,0.5917,qwen2.5:3b
+8,courses,List the compulsory courses of the CS major.,"- MATH 202: Discrete Math
+- CS101: Introduction to Programming
+- CS201: Data Structures & Algorithms
+- CS302: Algorithms & Theory of Computing","13,7,11,7,11",False,41.0,0.6839,qwen2.5:3b
+9,outcomes,What are the learning outcomes of the CS program?,"The Computer Science program aims to equip students with necessary skills and knowledge for employment in industry or graduate schools, instill a strong code of professional ethics, foster effective collaboration and communication, and cultivate innovators and thinkers. These goals align with Program Educational Objectives (PEOs) 1-3. The specific learning outcomes are mapped to the FUV Graduate Attributes as Core Learning Outcomes (Core LOs).","11,5,12,4,4",False,42.2,0.6186,qwen2.5:3b
+10,outcomes,What skills will a CS graduate have after finishing the program?,"A CS graduate will have skills in fundamental computer science, emerging aspects like machine learning and data science, and be able to develop real-world applications using knowledge from computer science and other disciplines.","5,5,11,11,8",False,35.1,0.6001,qwen2.5:3b
+11,policy,What is the minimum GPA required to graduate?,The handbook does not say.,"9,7,5,2,6",False,26.0,0.5483,qwen2.5:3b
+12,policy,Can I double major with Computer Science?,The handbook does not say.,"7,4,4,13,4",False,21.6,0.5749,qwen2.5:3b
+13,policy,What is the policy on course prerequisites?,The handbook does not say specific policies on course prerequisites other than what's mentioned for individual courses.,"14,16,13,8,17",False,29.6,0.5775,qwen2.5:3b
+14,policy,How many credits can a student take per semester?,The handbook does not say.,"7,7,7,11,6",False,33.1,0.5736,qwen2.5:3b
+15,out_of_scope,Who is the president of the United States?,The handbook does not say.,"6,15,1,16,3",True,0.6,0.4757,qwen2.5:3b
+16,out_of_scope,What is on the cafeteria menu today?,The handbook does not say.,"13,16,16,16,3",True,0.1,0.4761,qwen2.5:3b
