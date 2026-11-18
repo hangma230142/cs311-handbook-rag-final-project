@@ -1,0 +1,23 @@
+# Format: category | question
+# Lines starting with # are ignored. Edit these so they match the real handbook, and add your own.
+
+requirements | What are the graduation requirements for the Computer Science major?
+requirements | How many credits are the compulsory courses in the CS major?
+requirements | What is the Capstone requirement?
+requirements | How many advanced courses must a CS student take?
+
+courses | Is CS 201 Data Structures & Algorithms a compulsory course, and how many credits is it?
+courses | Which math course is required for the CS major?
+courses | What is CS 203 about?
+courses | List the compulsory courses of the CS major.
+
+outcomes | What are the learning outcomes of the CS program?
+outcomes | What skills will a CS graduate have after finishing the program?
+
+policy | What is the minimum GPA required to graduate?
+policy | Can I double major with Computer Science?
+policy | What is the policy on course prerequisites?
+policy | How many credits can a student take per semester?
+
+out_of_scope | Who is the president of the United States?
+out_of_scope | What is on the cafeteria menu today?

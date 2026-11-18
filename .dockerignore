@@ -1,0 +1,4 @@
+*
+!run_rag.py
+!app.py
+!requirements-docker.txt
